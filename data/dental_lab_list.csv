@@ -1,0 +1,192 @@
+COMPANY,FNAME,LNAME,SALUTATION,PROFESSIONALTITLE,TITLECODE_DESC,PHONEO,MAILINGADDRESS,MAILINGCITY,MAILINGSTATE,MAILINGZIPCODE,MAILINGZIPFOUR,MAILINGCARRIERROUTECODE,CNTYCD,ADDRESS,CITY,STATE,SECONDARY_ZIP_CODE,SECONDARY_ZIP4,SIC6,SICDESC6,ACTUAL_EMPLOYEES,ACTUAL_SALES
+Heritage Labs,Bill,Mc Cormick,MR,,FINANCE EXEC,8476901810,605 E Algonquin Rd # 180,Arlington Hts,IL,60005,4300,C063,31,605 E Algonquin Rd # 180,Arlington Hts,IL,60005,4300,807201,Laboratories-Dental,18,1121
+Northwest Dental Studio,,,,,,7737251776,7049 W Addison St,Chicago,IL,60634,3616,C050,31,7049 W Addison St,Chicago,IL,60634,3616,807201,Laboratories-Dental,4,250
+Hi-Point Dental Lab,Sung,Kang,MR,,FINANCE EXEC,8475775200,5104 Tollview Dr # A,Rolling Meadows,IL,60008,3712,C015,31,5104 Tollview Dr # A,Rolling Meadows,IL,60008,3712,807201,Laboratories-Dental,5,312
+Popp Dental Lab,Gregory,Devillers,MR,,REGIONAL MGR,4144216695,5701 Broad St,Greendale,WI,53129,2403,C001,79,5701 Broad St,Greendale,WI,53129,2403,807201,Laboratories-Dental,12,1525
+American Dental Products Inc,George,Nikoli,MR,,PRESIDENT,8008467120,603 Country Club Dr # B,Bensenville,IL,60106,1329,C012,43,603 Country Club Dr # B,Bensenville,IL,60106,1329,807201,Laboratories-Dental,49,5539
+Westbrook Dental Studio Inc,Tom,Kowalkowski,MR,,OWNER,7085625660,1200 Highridge Pkwy,Westchester,IL,60154,3456,C038,31,1200 Highridge Pkwy,Westchester,IL,60154,3456,807201,Laboratories-Dental,4,250
+Korus Dental Solution,Maria,Sanchez,MS,,OFFICE MANAGER,7085475700,2600 Washington Blvd,Bellwood,IL,60104,1953,C003,31,2600 Washington Blvd,Bellwood,IL,60104,1953,807201,Laboratories-Dental,2,125
+Accudent Dental Laboratories,Bruce,Hoekema,MR,,FINANCE EXEC,7088952525,1930 177th St,Lansing,IL,60438,1565,C007,31,1930 177th St,Lansing,IL,60438,1565,807201,Laboratories-Dental,30,1868
+Cosmetic Dental Studio Inc,Ted,Leiba,MR,,PRESIDENT,7735612884,5732 N Western Ave,Chicago,IL,60659,5456,C016,31,5732 N Western Ave,Chicago,IL,60659,5456,807201,Laboratories-Dental,2,125
+Integrity Dental Designs Inc,Michael,Flaws,MR,,OWNER,8473622584,14185 W Oak Ave,Lake Forest,IL,60045,1078,C005,97,14185 W Oak Ave,Lake Forest,IL,60045,1078,807201,Laboratories-Dental,3,309
+Saber Dental Studio,Brian,Haley,MR,,PRESIDENT,2625425100,803 W College Ave,Waukesha,WI,53186,5915,C006,133,803 W College Ave,Waukesha,WI,53186,5915,807201,Laboratories-Dental,70,4128
+Smile Dental Studio Glenview,Maja,Simic,MS,,OWNER,8475106225,1971 Tower Dr #d12a,Glenview,IL,60026,7801,C062,31,1971 Tower Dr #d12a,Glenview,IL,60026,7801,807201,Laboratories-Dental,2,125
+New Smile Ctr,Vick,Poskus,MR,,OWNER,7083872020,9201 Broadway Ave,Brookfield,IL,60513,1251,C004,31,9201 Broadway Ave,Brookfield,IL,60513,1251,807201,Laboratories-Dental,5,312
+Cad Cam Dental Prosthetics,Cheslav,Ganja,MR,,OWNER,6302973559,817 W Morris Ave,Addison,IL,60101,2113,C009,43,817 W Morris Ave,Addison,IL,60101,2113,807201,Laboratories-Dental,1,114
+Winnetka Dental Arts,George,Varga,MR,,OWNER,8474416510,570 Lincoln Ave # 3,Winnetka,IL,60093,2355,C030,31,570 Lincoln Ave # 3,Winnetka,IL,60093,2355,807201,Laboratories-Dental,4,250
+Qualident Dental Lab,Adolph,Hartmann,MR,,PRESIDENT,7087554422,500 Ashland Ave #c,Chicago Heights,IL,60411,3024,C037,31,500 Ashland Ave #c,Chicago Heights,IL,60411,3024,807201,Laboratories-Dental,6,374
+Lighthouse Dental Studio,Jack,Garcia,MR,,MANAGER,2626197735,1101 S Airline Rd,Mt Pleasant,WI,53406,3888,C071,101,1101 S Airline Rd,Mt Pleasant,WI,53406,3888,807201,Laboratories-Dental,9,1160
+Prosthotech Dental Lab,Joseph,Kim,MR,,OWNER,6304668333,769 N Heartland Dr # C,Sugar Grove,IL,60554,9347,R049,89,769 N Heartland Dr # C,Sugar Grove,IL,60554,9347,807201,Laboratories-Dental,2,165
+Modern Dental Laboratory Usa,Bonnie,Kuzur,MS,,MANAGER,7736313400,6325 N Milwaukee Ave,Chicago,IL,60646,3710,C026,31,6325 N Milwaukee Ave,Chicago,IL,60646,3710,807201,Laboratories-Dental,7,436
+Elite Dental Studio,Donald Z,Cary,MR,,MANAGER,2627848323,15340 Watertown Plank Rd # 1,Elm Grove,WI,53122,2349,C006,133,15340 Watertown Plank Rd # 1,Elm Grove,WI,53122,2349,807201,Laboratories-Dental,3,177
+Bennett Technologies Inc,Paul A,Bennett,MR,,OWNER,7082630936,17049 Harlem Ave,Tinley Park,IL,60477,2739,C056,31,17049 Harlem Ave,Tinley Park,IL,60477,2739,807201,Laboratories-Dental,6,374
+Maroney Dental Lab,Sean,Maroney,MR,,MANAGER,4144812586,2602 E Oklahoma Ave,Milwaukee,WI,53207,3044,C020,79,2602 E Oklahoma Ave,Milwaukee,WI,53207,3044,807201,Laboratories-Dental,1,128
+Nu-Art Dental Lab Inc,Dj,Zanon,MR,,OWNER,4147714118,160 Bishops Way,Brookfield,WI,53005,6205,C093,133,160 Bishops Way,Brookfield,WI,53005,6205,807201,Laboratories-Dental,60,3538
+Ceramident,Bob,Krashen,MR,,OWNER,3127821161,30 N Michigan Ave # 1617,Chicago,IL,60602,3657,C002,31,30 N Michigan Ave # 1617,Chicago,IL,60602,3657,807201,Laboratories-Dental,3,187
+D & S Dental Lab,Eva,Love,MS,,MANAGER,4145463040,7420 W Forest Home Ave,Milwaukee,WI,53220,3358,C065,79,7420 W Forest Home Ave,Milwaukee,WI,53220,3358,807201,Laboratories-Dental,5,636
+Greenfield Dental Laboratory,Dennis,Zebell,MR,,OWNER,4146458470,2778 S 35th St # 10,Milwaukee,WI,53215,3578,C045,79,2778 S 35th St # 10,Milwaukee,WI,53215,3578,807201,Laboratories-Dental,2,255
+Eccentric Dental Laboratory,Dikran,Kalayjian,MR,,OWNER,7734679601,6215 W Touhy Ave,Chicago,IL,60646,1105,C033,31,6215 W Touhy Ave,Chicago,IL,60646,1105,807201,Laboratories-Dental,1,63
+Capitol Dental Laboratory Inc,Orville,Colby,MR,,PRESIDENT,2622516166,N91w17151 Appleton Ave,Menomonee Falls,WI,53051,2044,C010,133,N91w17151 Appleton Ave,Menomonee Falls,WI,53051,2044,807201,Laboratories-Dental,11,649
+Chain O'lake Dental Lab,David,Novak,MR,,OWNER,8479738734,37669 N Il Route 59,Lake Villa,IL,60046,7330,R010,97,37669 N Il Route 59,Lake Villa,IL,60046,7330,807201,Laboratories-Dental,12,1236
+Quality Dental Ceramics,Ross,Greenberg,MR,,OWNER,8476745576,9933 Lawler Ave # 440,Skokie,IL,60077,3720,C033,31,9933 Lawler Ave # 440,Skokie,IL,60077,3720,807201,Laboratories-Dental,5,312
+Satisfaction Dental Laboratory,Barney,Rubble,MR,,OWNER,8477424710,161 N Edison Ave,Elgin,IL,60123,5214,C048,89,161 N Edison Ave,Elgin,IL,60123,5214,807201,Laboratories-Dental,9,739
+Ed Campbell's Dental Lab,Ed,Campbell,MR,,OWNER,6308375306,1645 Irving Park Rd # 102,Hanover Park,IL,60133,3382,C029,31,1645 Irving Park Rd # 102,Hanover Park,IL,60133,3382,807201,Laboratories-Dental,1,63
+W R Petrie Dental Lab Ltd,Warren R,Petrie,MR,,OWNER,7087484111,22333 Governors Hwy,Richton Park,IL,60471,1909,C029,31,22333 Governors Hwy,Richton Park,IL,60471,1909,807201,Laboratories-Dental,9,561
+Popp Dental Laboratory Inc,Robert,Popp,MR,,FINANCE EXEC,2625544939,4401 Taylor Ave #101,Mt Pleasant,WI,53405,4679,C002,101,4401 Taylor Ave #101,Mt Pleasant,WI,53405,4679,807201,Laboratories-Dental,10,1288
+Lakeside Dental Laboratory Inc,Sandy,Hicks,MS,,SALES EXEC,4147442626,4771 S Packard Ave,Cudahy,WI,53110,1446,C001,79,4771 S Packard Ave,Cudahy,WI,53110,1446,807201,Laboratories-Dental,13,1652
+J F Polcyn Dental Lab,Barbara,Polcyn,MS,,OWNER,7084232345,9709 Southwest Hwy,Oak Lawn,IL,60453,3614,C003,31,9709 Southwest Hwy,Oak Lawn,IL,60453,3614,807201,Laboratories-Dental,4,250
+Precision Prosthodontic Lab,Daniel J,Mackey,MR,,PRESIDENT,3124430875,25 E Washington St # 2010,Chicago,IL,60602,1815,C026,31,25 E Washington St # 2010,Chicago,IL,60602,1815,807201,Laboratories-Dental,3,187
+Ancer Dental Lab,Rich,Hartmann,MR,,MANAGER,7737282200,5789 N Lincoln Ave,Chicago,IL,60659,4788,C015,31,5789 N Lincoln Ave,Chicago,IL,60659,4788,807201,Laboratories-Dental,13,810
+Merrimac Dental Laboratory Inc,Andrea,Ema,MS,,OWNER,6302623700,37w391 Keslinger Rd,Geneva,IL,60134,3914,R062,89,37w391 Keslinger Rd,Geneva,IL,60134,3914,807201,Laboratories-Dental,8,657
+Layton Dental Lab Inc,Richard,Bong,MR,,PRESIDENT,2626917100,N82w28709 Audrey Dr,Hartland,WI,53029,9578,R002,133,N82w28709 Audrey Dr,Hartland,WI,53029,9578,807201,Laboratories-Dental,3,177
+Geneva Dental Laboratory,James W,Barnes,MR,,OWNER,6302321605,102 N 4th St,Geneva,IL,60134,2434,C005,89,102 N 4th St,Geneva,IL,60134,2434,807201,Laboratories-Dental,18,1478
+Centric Dental Laboratory,Tom,Liebert,MR,,OWNER,8478881627,450 Shepard Dr,Elgin,IL,60123,7033,C049,89,450 Shepard Dr,Elgin,IL,60123,7033,807201,Laboratories-Dental,2,165
+Wheeling Denture Studio,Jim,Olsen,MR,,OWNER,8474594303,144 Berkshire Dr,Wheeling,IL,60090,3955,C032,31,144 Berkshire Dr,Wheeling,IL,60090,3955,807201,Laboratories-Dental,1,63
+Diamond Dental Lab,Michael,Bridge,MR,,PRESIDENT,8478036900,200 Howard Ave # 254,Des Plaines,IL,60018,5910,C004,31,200 Howard Ave # 254,Des Plaines,IL,60018,5910,807201,Laboratories-Dental,15,934
+Bio-Tech Prosthetics,,,,,,8475770990,1112 E Central Rd # 3,Arlington Hts,IL,60005,3288,C013,31,1112 E Central Rd # 3,Arlington Hts,IL,60005,3288,807201,Laboratories-Dental,10,623
+Mc Dental Lab,Mark,Cychosz,MR,,OWNER,4144756212,515 Glenview Ave # E,Wauwatosa,WI,53213,3234,C059,79,515 Glenview Ave # E,Wauwatosa,WI,53213,3234,807201,Laboratories-Dental,3,382
+Muggli Dental Studio,Debbie,Schutzback,MS,,SALES EXEC,4143514401,7101 N Green Bay Ave # 5,Milwaukee,WI,53209,2800,C060,79,7101 N Green Bay Ave # 5,Milwaukee,WI,53209,2800,807201,Laboratories-Dental,35,4447
+Novaks Dental Laboratory,David,Novak,MR,,OWNER,6309697447,5600 Fairmount Ave,Downers Grove,IL,60516,1415,C041,43,5600 Fairmount Ave,Downers Grove,IL,60516,1415,807201,Laboratories-Dental,2,227
+Du Page Dental Laboratory Ltd,Socrates,Capoyianes,MR,,OWNER,6305308909,483 W Wrightwood Ave,Elmhurst,IL,60126,1011,C046,43,483 W Wrightwood Ave,Elmhurst,IL,60126,1011,807201,Laboratories-Dental,12,1357
+Rite Fit Dentures,,,,,,8473538070,726 S Milwaukee Ave,Wheeling,IL,60090,6202,C013,31,726 S Milwaukee Ave,Wheeling,IL,60090,6202,807201,Laboratories-Dental,2,125
+Aurora Dental Lab,Ed,Moshinsky,MR,,OWNER,6308920736,36 S Stolp Ave,Aurora,IL,60506,5143,C007,89,36 S Stolp Ave,Aurora,IL,60506,5143,807201,Laboratories-Dental,1,83
+Preferred Removal Svc,George,Johnson,MR,,OWNER,6303017326,1026 Prairie St,Aurora,IL,60506,5429,C037,89,1026 Prairie St,Aurora,IL,60506,5429,807201,Laboratories-Dental,4,329
+Dove Dental Studio,,,,,,8476792434,7925 Lincoln Ave,Skokie,IL,60077,3679,C046,31,7925 Lincoln Ave,Skokie,IL,60077,3679,807201,Laboratories-Dental,3,187
+Graser Dental Lab,Phil,Graser,MR,,OWNER,8473671605,168 Webster Pl,Vernon Hills,IL,60061,1413,C030,97,168 Webster Pl,Vernon Hills,IL,60061,1413,807201,Laboratories-Dental,2,206
+Olivier Tric Dental Laboratory,Olivier,Tric,MR,,OWNER,6302799305,111 N Addison Ave # B,Elmhurst,IL,60126,2862,C070,43,111 N Addison Ave # B,Elmhurst,IL,60126,2862,807201,Laboratories-Dental,3,340
+Duarte Dental Lab,Alberto,Duarte,MR,,OWNER,7733948811,2413 N Cicero Ave,Chicago,IL,60639,2512,C015,31,2413 N Cicero Ave,Chicago,IL,60639,2512,807201,Laboratories-Dental,1,63
+Nik Dental Lab Llc,Frank,Augustine,MR,,OWNER,2626917426,PO Box 95,Pewaukee,WI,53072,95,B002,133,N34w24041 Capitol Dr # 2,Pewaukee,WI,53072,2612,807201,Laboratories-Dental,5,295
+Zig Dental Laboratory,Zig,Hartmanowski,MR,,OWNER,7737256612,5520 W Belmont Ave,Chicago,IL,60641,4129,C048,31,5520 W Belmont Ave,Chicago,IL,60641,4129,807201,Laboratories-Dental,1,63
+Lee Dental Laboratory,Soo,Han,MS,,OWNER,6305305217,188 W Industrial Dr # 130,Elmhurst,IL,60126,1608,C041,43,188 W Industrial Dr # 130,Elmhurst,IL,60126,1608,807201,Laboratories-Dental,7,792
+Holz Dental Lab,Tom,Holz,MR,,OWNER,6308300071,5521 County Farm Rd,Hanover Park,IL,60133,5179,C031,43,5521 County Farm Rd,Hanover Park,IL,60133,5179,807201,Laboratories-Dental,2,227
+Precision Dental Castings Inc,Juan,Uribe,MR,,OWNER,8476777860,4528 Oakton St,Skokie,IL,60076,3143,C044,31,4528 Oakton St,Skokie,IL,60076,3143,807201,Laboratories-Dental,4,250
+Paragon Ceramix Studio,Michael,Safir,MR,,OWNER,8472570357,502 Zenith Dr,Glenview,IL,60025,3651,C005,31,502 Zenith Dr,Glenview,IL,60025,3651,807201,Laboratories-Dental,8,499
+Northwest Dental Studio Inc,Eddie,Kadlubowski,MR,,OWNER,8476321092,1010 S Arlington Heights # 2,Arlington Hts,IL,60005,3107,C086,31,1010 S Arlington Heights # 2,Arlington Hts,IL,60005,3107,807201,Laboratories-Dental,2,125
+H Robert Pawlowski Dental Lab,Bob,Pawlowski,MR,,OWNER,6308598089,419 S Fordham Ave,Aurora,IL,60506,5405,C037,89,419 S Fordham Ave,Aurora,IL,60506,5405,807201,Laboratories-Dental,1,83
+Euro Tech Dental Lab Inc,Michael,Aube,MR,,OWNER,8476990400,2434 E Dempster St # 207,Des Plaines,IL,60016,5340,C014,31,2434 E Dempster St # 207,Des Plaines,IL,60016,5340,807201,Laboratories-Dental,2,125
+Nemec Dental Laboratory,Mike,Nemec,MR,,OWNER,7085441096,4316 Saint Charles Rd,Bellwood,IL,60104,1148,C016,31,4316 Saint Charles Rd,Bellwood,IL,60104,1148,807201,Laboratories-Dental,1,63
+Tamarac Dental Laboratory,Kathy,Wambach,MS,,PARTNER,6309066073,888 S Edgelawn Dr # 1723,Aurora,IL,60506,5284,C046,89,888 S Edgelawn Dr # 1723,Aurora,IL,60506,5284,807201,Laboratories-Dental,9,739
+Lakeside Dental Laboratory,Steve,Stevens,MR,,OTHER,6305437999,96 W Moreland Ave # 25b,Addison,IL,60101,3869,C018,43,96 W Moreland Ave # 25b,Addison,IL,60101,3869,807201,Laboratories-Dental,1,114
+C B & C Dental Laboratory,John,Bilich,MR,,OWNER,7087951966,3518 Wenonah Ave,Berwyn,IL,60402,3340,C028,31,3518 Wenonah Ave,Berwyn,IL,60402,3340,807201,Laboratories-Dental,1,63
+A American Dental Creations,,,,,,7087550055,165 W 10th St # 1,Chicago Heights,IL,60411,2000,C025,31,165 W 10th St # 1,Chicago Heights,IL,60411,2000,807201,Laboratories-Dental,2,125
+Arthur J Schroeder & Sons Inc,William,Schroeder,MR,,PRESIDENT,8474800380,634 Anthony Trl,Northbrook,IL,60062,2540,C051,31,634 Anthony Trl,Northbrook,IL,60062,2540,807201,Laboratories-Dental,2,125
+Ed Dental Lab,Eden,Perez,MS,,OWNER,6304340705,6317 Fairview Ave # 1,Westmont,IL,60559,2804,C025,43,6317 Fairview Ave # 1,Westmont,IL,60559,2804,807201,Laboratories-Dental,5,566
+Johnson's Dental Casting,Arthur,Johnson,MR,,OWNER,7732384527,9103 S Ashland Ave,Chicago,IL,60620,5029,C023,31,9103 S Ashland Ave,Chicago,IL,60620,5029,807201,Laboratories-Dental,2,125
+B & C Dental Lab,Don,Brown,MR,,OWNER,7732390293,1459 W 103rd St,Chicago,IL,60643,2952,C066,31,1459 W 103rd St,Chicago,IL,60643,2952,807201,Laboratories-Dental,1,63
+Creative Dental Ceramics,Mark,Nowak,MR,,MANAGER,8478248100,110 S River Rd # 4,Des Plaines,IL,60016,3440,C010,31,110 S River Rd # 4,Des Plaines,IL,60016,3440,807201,Laboratories-Dental,5,312
+Ultra Dental Studio Inc,Jack,Solomon,MR,,OWNER,8475162949,6124 S Kilkenny Dr,Crystal Lake,IL,60014,4728,R005,111,6124 S Kilkenny Dr,Crystal Lake,IL,60014,4728,807201,Laboratories-Dental,1,66
+Aj Enterprises,Andrew,Luckow,MR,,OWNER,8479490304,432 Balmoral Dr,Mundelein,IL,60060,2657,C040,97,432 Balmoral Dr,Mundelein,IL,60060,2657,807201,Laboratories-Dental,1,103
+Prime Dental Studio,Gisoo,Kim,MR,,OWNER,2242354676,1920 Raymond Dr,Northbrook,IL,60062,6715,C026,31,1920 Raymond Dr,Northbrook,IL,60062,6715,807201,Laboratories-Dental,2,125
+K Vista Dental Laboratory,,,,,,8472725158,2140 Scotch Pine Ln,Northbrook,IL,60062,6431,C039,31,2140 Scotch Pine Ln,Northbrook,IL,60062,6431,807201,Laboratories-Dental,2,125
+Lagers Dental Lab,Eddie,Lager,MR,,OWNER,4144537474,2645 N Mayfair Rd # 220,Wauwatosa,WI,53226,1304,C076,79,2645 N Mayfair Rd # 220,Wauwatosa,WI,53226,1304,807201,Laboratories-Dental,1,128
+A & B Orthodontic Lab,Agim,Saipi,MR,,OWNER,8476748460,5031 Warren St,Skokie,IL,60077,2910,C046,31,5031 Warren St,Skokie,IL,60077,2910,807201,Laboratories-Dental,4,250
+Nitram Technologies Inc,Martin,Rocha,MR,,OWNER,7736810869,5049 N Ridgeway Ave #1,Chicago,IL,60625,8546,C060,31,5049 N Ridgeway Ave #1,Chicago,IL,60625,8546,807201,Laboratories-Dental,2,125
+Hansen Incarnati Dental Lab,Luigi,Incarnati,MR,,OWNER,6302958889,181 W Irving Park Rd,Roselle,IL,60172,1119,C004,43,181 W Irving Park Rd,Roselle,IL,60172,1119,807201,Laboratories-Dental,3,340
+Vivotech Dental Lab,Willy,Chavez,MR,,OWNER,8472445531,2422 Grand Ave,Waukegan,IL,60085,3315,C031,97,2422 Grand Ave,Waukegan,IL,60085,3315,807201,Laboratories-Dental,4,412
+Oral Engineers,Harris,Edelson,MR,,OWNER,8476763210,6201 W Howard St,Niles,IL,60714,3436,C005,31,6201 W Howard St,Niles,IL,60714,3436,807201,Laboratories-Dental,2,125
+Everyone's Family Dental St,Jubrail,Sweis,,,OPERATIONS,6305497392,1400 Lincoln Hwy,St Charles,IL,60174,3580,C010,89,1400 Lincoln Hwy,St Charles,IL,60174,3580,807201,Laboratories-Dental,4,329
+Petritsch Dental Laboratory,William,Petritsch,MR,,OWNER,7084485428,48 N Woodland Trl,Palos Park,IL,60464,1257,C032,31,48 N Woodland Trl,Palos Park,IL,60464,1257,807201,Laboratories-Dental,2,125
+Horizon Dental Lab,,,,,,8479821150,8424 Skokie Blvd # 204,Skokie,IL,60077,2568,C024,31,8424 Skokie Blvd # 204,Skokie,IL,60077,2568,807201,Laboratories-Dental,2,125
+Aiken Orthodontic Lab Llc,,,,,,,818 Lombard Ave,Racine,WI,53402,4057,C032,101,818 Lombard Ave,Racine,WI,53402,4057,807201,Laboratories-Dental,6,773
+M C Dental Laboratory,Moon,Cho,MR,,OWNER,8473592880,1721 W Cottonwood Trl,Hoffman Estates,IL,60192,5615,C026,31,1721 W Cottonwood Trl,Hoffman Estates,IL,60192,5615,807201,Laboratories-Dental,1,63
+Rockert Dental Studio,Tad,Friess,MR,,OWNER,6306651272,320 E Liberty Dr,Wheaton,IL,60187,5402,C008,43,320 E Liberty Dr,Wheaton,IL,60187,5402,807201,Laboratories-Dental,14,1583
+Metro Dental Lab,,,,,,7088361030,2323 Downing Ave,Westchester,IL,60154,5148,C044,31,2323 Downing Ave,Westchester,IL,60154,5148,807201,Laboratories-Dental,1,63
+Greg Gough Dental Lab,Greg,Gough,MR,,OWNER,6308515581,2473 S Crescent Ln,Aurora,IL,60504,6084,C093,43,2473 S Crescent Ln,Aurora,IL,60504,6084,807201,Laboratories-Dental,1,114
+Cerama-Lab,Jim,Ponozzo,MR,,OWNER,7086330558,17732 Oak Park Ave # C,Tinley Park,IL,60477,8909,C038,31,17732 Oak Park Ave # C,Tinley Park,IL,60477,8909,807201,Laboratories-Dental,3,187
+Maine Dental Laboratory,Michael,Vavra,MR,,OWNER,8473983977,832 E Rand Rd #21,Mt Prospect,IL,60056,2568,C104,31,832 E Rand Rd #21,Mt Prospect,IL,60056,2568,807201,Laboratories-Dental,8,499
+Bright Dental Lab,,,,,,8472997064,2434 E Dempster St # 203,Des Plaines,IL,60016,5340,C014,31,2434 E Dempster St # 203,Des Plaines,IL,60016,5340,807201,Laboratories-Dental,1,63
+Ora Dental Studio-South Loop,,,,,,3123289007,1827 S Michigan Ave,Chicago,IL,60616,1601,C037,31,1827 S Michigan Ave,Chicago,IL,60616,1601,807201,Laboratories-Dental,2,125
+Crowley Alexius J Dds Ltd,,,,,,8479457414,1560 Robin Rd,Bannockburn,IL,60015,1852,C013,97,1560 Robin Rd,Bannockburn,IL,60015,1852,807201,Laboratories-Dental,1,103
+Roberts Orthodontic Lab Inc,Randall,Roberts,MR,,OWNER,2623639990,941 Perkins Dr,Mukwonago,WI,53149,1400,C001,133,941 Perkins Dr,Mukwonago,WI,53149,1400,807201,Laboratories-Dental,12,708
+Lira's Dental,Mike,Lira,MR,,OWNER,8474288805,700 Willow Ln # F,Sleepy Hollow,IL,60118,2130,R005,89,700 Willow Ln # F,Sleepy Hollow,IL,60118,2130,807201,Laboratories-Dental,1,83
+Dentlab,Andrew,Zelek,MR,,OWNER,7738818111,3942 W 111th St,Chicago,IL,60655,4033,C008,31,3942 W 111th St,Chicago,IL,60655,4033,807201,Laboratories-Dental,2,125
+Unique Dental Studio,Bill,Mc Dermott,MR,,OWNER,4144271600,13635 Kelton Ct,New Berlin,WI,53151,8752,C013,133,13635 Kelton Ct,New Berlin,WI,53151,8752,807201,Laboratories-Dental,2,255
+Modern Dental Laboratory Usa,Mark,Siegel,MR,,OWNER,8474781341,2249 Avalon Dr,Buffalo Grove,IL,60089,4686,R003,97,2249 Avalon Dr,Buffalo Grove,IL,60089,4686,807201,Laboratories-Dental,2,206
+Nu-Tech Dental Lab Inc,,,,,,8478030996,2255 Elmira Ave,Des Plaines,IL,60018,2629,C004,31,2255 Elmira Ave,Des Plaines,IL,60018,2629,807201,Laboratories-Dental,2,125
+Blooming Smiles Dental Studio,,,,,,6302959600,156 E Lake St #a,Bloomingdale,IL,60108,1159,C024,43,156 E Lake St #a,Bloomingdale,IL,60108,1159,807201,Laboratories-Dental,3,340
+Joanna's Dental Laboratory,Joanna,Schmidt,MS,,OWNER,8472983777,570 E Northwest Hwy # 3,Des Plaines,IL,60016,2269,C020,31,570 E Northwest Hwy # 3,Des Plaines,IL,60016,2269,807201,Laboratories-Dental,1,63
+Takigahira Dental Laboratory,Makoto,Takigahira,MR,,OWNER,8472978033,521 Zenith Dr,Glenview,IL,60025,3650,C005,31,521 Zenith Dr,Glenview,IL,60025,3650,807201,Laboratories-Dental,1,63
+Falls Dental Lab Inc,Keith,Williams,MR,,PRESIDENT,2625029790,N88w17015 Main St # 103,Menomonee Falls,WI,53051,2776,C005,133,N88w17015 Main St # 103,Menomonee Falls,WI,53051,2776,807201,Laboratories-Dental,4,236
+Jade Dental Laboratory,Paul,Emma,MR,,OWNER,6302321050,37w391 Keslinger Rd,Geneva,IL,60134,3914,R062,89,37w391 Keslinger Rd,Geneva,IL,60134,3914,807201,Laboratories-Dental,10,821
+Zodiac Denture Repair Lab,Gregory,Minor,MR,,MANAGER,6306658010,1825 E Roosevelt Rd,Wheaton,IL,60187,6973,C012,43,1825 E Roosevelt Rd,Wheaton,IL,60187,6973,807201,Laboratories-Dental,3,340
+Recilles Dental Lab,,,,,,7737288344,4611 N Western Ave,Chicago,IL,60625,2022,C058,31,4611 N Western Ave,Chicago,IL,60625,2022,807201,Laboratories-Dental,2,125
+Super Dental Lab,Kyung,Choi,MS,,OWNER,8479230303,1635 W Wise Rd # 5,Schaumburg,IL,60193,5476,C017,31,1635 W Wise Rd # 5,Schaumburg,IL,60193,5476,807201,Laboratories-Dental,1,63
+Jcw Dental Dimensions Ltd,John,Wood,MR,,OWNER,8475499800,8 Clipper Ct,Third Lake,IL,60030,2602,C008,97,8 Clipper Ct,Third Lake,IL,60030,2602,807201,Laboratories-Dental,1,103
+Klepacki J A Dental Lab Ltd,,,,,,6309642182,122 E Chicago Ave,Westmont,IL,60559,1723,C001,43,122 E Chicago Ave,Westmont,IL,60559,1723,807201,Laboratories-Dental,3,340
+L K Creations,,,,,,2625347486,28822 Plank Rd,Burlington,WI,53105,9721,R020,101,28822 Plank Rd,Burlington,WI,53105,9721,807201,Laboratories-Dental,1,129
+Progress Porcelain,Dunja,Vla,,,OTHER,8473291630,5135 Dempster St #1,Skokie,IL,60077,1862,C077,31,5135 Dempster St #1,Skokie,IL,60077,1862,807201,Laboratories-Dental,2,125
+Bennett Dental Laboratory Inc,Gerald,Bennett,MR,,OWNER,7084307225,7221 W 103rd St,Palos Hills,IL,60465,2064,C036,31,7221 W 103rd St,Palos Hills,IL,60465,2064,807201,Laboratories-Dental,5,312
+Korona Dental Laboratory Inc,Eva,Betten,MS,,PRESIDENT,8478644885,636 Church St # 618,Evanston,IL,60201,4586,C021,31,636 Church St # 618,Evanston,IL,60201,4586,807201,Laboratories-Dental,2,125
+Edens Dental Lab,Tom,Yactor,MR,,OWNER,8478237500,8100 W Oakton St # 2,Niles,IL,60714,2716,C021,31,8100 W Oakton St # 2,Niles,IL,60714,2716,807201,Laboratories-Dental,1,63
+Ideal Dental Laboratory,Edward,Larson,MR,,PRESIDENT,7732370868,6212 W Grand Ave,Chicago,IL,60639,2614,C051,31,6212 W Grand Ave,Chicago,IL,60639,2614,807201,Laboratories-Dental,3,187
+Wand Dental Lab,Helen,Kim,MS,,OWNER,7083439263,2600 Washington Blvd #d,Bellwood,IL,60104,1956,C003,31,2600 Washington Blvd #d,Bellwood,IL,60104,1956,807201,Laboratories-Dental,20,1246
+Parris Dental Lab,,,,,,7738266005,3331 W Flournoy St,Chicago,IL,60624,3717,C014,31,3331 W Flournoy St,Chicago,IL,60624,3717,807201,Laboratories-Dental,2,125
+Abel Dental Lab,C,Santomarco,,,OWNER,7084483889,11102 S Natoma Ave,Worth,IL,60482,1930,C010,31,11102 S Natoma Ave,Worth,IL,60482,1930,807201,Laboratories-Dental,15,934
+Baltic Dental Laboratory,Beata,Aube,MS,,OWNER,8478959365,1074 S Roselle Rd,Schaumburg,IL,60193,3961,C022,31,1074 S Roselle Rd,Schaumburg,IL,60193,3961,807201,Laboratories-Dental,1,63
+Fidelity Dental Works,David,Jang,MR,,PRESIDENT,8473821642,111 Lions Dr,Barrington,IL,60010,3182,C041,97,111 Lions Dr,Barrington,IL,60010,3182,807201,Laboratories-Dental,4,412
+Studio Of Master's Touch,David,Jang,MR,,OWNER,8473820083,307 S Milwaukee Ave # 107,Wheeling,IL,60090,5035,C071,31,307 S Milwaukee Ave # 107,Wheeling,IL,60090,5035,807201,Laboratories-Dental,3,187
+S & E Dental Studio,Stan,Chrzanowski,MR,,OWNER,8474588282,3260 Covington Ln,Algonquin,IL,60102,6814,C013,111,3260 Covington Ln,Algonquin,IL,60102,6814,807201,Laboratories-Dental,2,131
+Ora Dental Studio,Goran,Kralj,MR,,OWNER,3128361166,326 W Illinois St,Chicago,IL,60654,7677,C065,31,326 W Illinois St,Chicago,IL,60654,7677,807201,Laboratories-Dental,2,125
+Ibarra Dental Lab,Luis,Ibarra,MR,,OWNER,7083851967,13357 Olde Western Ave,Blue Island,IL,60406,5387,C014,31,13357 Olde Western Ave,Blue Island,IL,60406,5387,807201,Laboratories-Dental,2,125
+Midtown Dental Lab Llc,Laura W,Russell,MS,,OWNER,,8726 W North Ave,Milwaukee,WI,53226,2724,C057,79,8726 W North Ave,Milwaukee,WI,53226,2724,807201,Laboratories-Dental,3,382
+Mt Dent Inc,Ai,Shibusawa,MS,,PRESIDENT,8479830015,5745 Keeney St,Morton Grove,IL,60053,3550,C021,31,5745 Keeney St,Morton Grove,IL,60053,3550,807201,Laboratories-Dental,2,125
+Cnc Dental Prosthetics,,,,,,8472552000,1005 S Evergreen Ave,Arlington Hts,IL,60005,3144,C086,31,1005 S Evergreen Ave,Arlington Hts,IL,60005,3144,807201,Laboratories-Dental,2,125
+Precious Art Dental Lab Inc,,,,,,7086670352,5132 N Harlem Ave,Harwood Heights,IL,60706,3617,C033,31,5132 N Harlem Ave,Harwood Heights,IL,60706,3617,807201,Laboratories-Dental,2,125
+Floss Dental Studios,Rhiannon M,Holcombe,MS,,OWNER,7085135001,957 S Mannheim Rd #1n,Westchester,IL,60154,2544,C035,31,957 S Mannheim Rd #1n,Westchester,IL,60154,2544,807201,Laboratories-Dental,2,125
+Nik Dental Lab Llc,,,,,,2626917428,215 Oakton Ave,Pewaukee,WI,53072,3477,C001,133,215 Oakton Ave,Pewaukee,WI,53072,3477,807201,Laboratories-Dental,5,295
+Lee Dental Studio Inc,,,,,,8474858341,1650 W Algonquin Rd,Hoffman Estates,IL,60192,1587,C033,31,1650 W Algonquin Rd,Hoffman Estates,IL,60192,1587,807201,Laboratories-Dental,2,125
+Allcast Dental Group Lab,,,,,,7735836308,3812 N Kedzie Ave,Chicago,IL,60618,3414,C065,31,3812 N Kedzie Ave,Chicago,IL,60618,3414,807201,Laboratories-Dental,2,125
+Durable Dental Lab,,,,,,8472537356,5050 Newport Dr # 7,Rolling Meadows,IL,60008,3824,C015,31,5050 Newport Dr # 7,Rolling Meadows,IL,60008,3824,807201,Laboratories-Dental,2,125
+Cosmera Dental Lab,,,,,,2244750008,25679 N Hillview Ct,Mundelein,IL,60060,9436,R001,97,25679 N Hillview Ct,Mundelein,IL,60060,9436,807201,Laboratories-Dental,3,309
+Expert Dental Ceramics,Yuri,Bogart,MR,,OWNER,8476758484,3770 W Devon Ave,Lincolnwood,IL,60712,1124,C061,31,3770 W Devon Ave,Lincolnwood,IL,60712,1124,807201,Laboratories-Dental,10,623
+Micro Smart Dental Lab,,,,,,8473526040,1019 W Wise Rd # 101,Schaumburg,IL,60193,3754,C029,31,1019 W Wise Rd # 101,Schaumburg,IL,60193,3754,807201,Laboratories-Dental,2,125
+William's Dental Laboratory,,,,,,8477421480,2061 Monday Dr,Elgin,IL,60123,1223,C037,89,2061 Monday Dr,Elgin,IL,60123,1223,807201,Laboratories-Dental,6,329
+Jacob,,,,,,8476794680,300 Skokie Valley Rd,Highland Park,IL,60035,4408,C021,97,300 Skokie Valley Rd,Highland Park,IL,60035,4408,807201,Laboratories-Dental,3,309
+Premier Dental Lab,Hector F,Cazares,MR,,MANAGER,,5099 Kingston Dr,Hoffman Estates,IL,60010,5611,C022,31,5099 Kingston Dr,Hoffman Estates,IL,60010,5611,807201,Laboratories-Dental,0,0
+Washington Dental Studio,Rohan V,Shah,MR,,PRESIDENT,6307960030,10735 Clocktower Dr # 303,La Grange Hlds,IL,60525,3044,C036,43,1003 S Washington St # 225,Naperville,IL,60540,7445,807201,Laboratories-Dental,4,340
+Lsk 121 Oral Prosthetics Labs,Ashina,Shin,,,DIRECTOR,6309551010,940 E Diehl Rd,Naperville,IL,60563,4809,C027,43,940 E Diehl Rd,Naperville,IL,60563,4809,807201,Laboratories-Dental,50,5652
+Chain Olakes Dental Lab,,,,,,8479738734,503 E Algonquin Rd,Algonquin,IL,60102,3004,C003,111,503 E Algonquin Rd,Algonquin,IL,60102,3004,807201,Laboratories-Dental,2,131
+First Impression Dental Lab,Todd,Franson,MR,,OWNER,8475248414,931 W Wise Rd,Schaumburg,IL,60193,3821,C005,31,931 W Wise Rd,Schaumburg,IL,60193,3821,807201,Laboratories-Dental,6,374
+Good News Dental Lab,,,,,,6305093231,415 E Potter St,Wood Dale,IL,60191,2119,C003,43,415 E Potter St,Wood Dale,IL,60191,2119,807201,Laboratories-Dental,3,340
+12 Group Inc,,,,,,8003990705,462 N Mclean Blvd,Elgin,IL,60123,3240,C050,89,462 N Mclean Blvd,Elgin,IL,60123,3240,807201,Laboratories-Dental,4,329
+Lani Dental Laboratory Llc,,,,,,6309352286,255 E Lake St #104,Bloomingdale,IL,60108,1287,C001,43,255 E Lake St #104,Bloomingdale,IL,60108,1287,807201,Laboratories-Dental,3,340
+Opudent Inc,Mark,Kajfeg,MR,,OWNER,8476628377,1020 W Glen Flora Ave # 201,Waukegan,IL,60085,1896,C014,97,1020 W Glen Flora Ave # 201,Waukegan,IL,60085,1896,807201,Laboratories-Dental,8,824
+Dental Laboratory Inc,,,,,,6303066991,3309 N Central Ave,Chicago,IL,60634,4325,C076,31,3309 N Central Ave,Chicago,IL,60634,4325,807201,Laboratories-Dental,2,125
+Roland's Dental Ceramics,Roland,Tasker,MR,,OWNER,6302575670,37 E Logan St,Lemont,IL,60439,3810,C001,43,37 E Logan St,Lemont,IL,60439,3810,807201,Laboratories-Dental,1,114
+Advanced Dental Studio,Yuri,Polyac,MR,,OWNER,3122559070,845 N Michigan Ave # 943w,Chicago,IL,60611,2211,C059,31,845 N Michigan Ave # 943w,Chicago,IL,60611,2211,807201,Laboratories-Dental,2,125
+Horizon Dental Laboratory,Howard,Levy,MR,,OWNER,8479821150,4849 Main St # 1e,Skokie,IL,60077,2579,C024,31,4849 Main St # 1e,Skokie,IL,60077,2579,807201,Laboratories-Dental,1,63
+Oral Kare Dental Lab Inc,Charlie,Cho,MR,,OWNER,7735880222,3224 W Bryn Mawr Ave,Chicago,IL,60659,3606,C011,31,3224 W Bryn Mawr Ave,Chicago,IL,60659,3606,807201,Laboratories-Dental,4,250
+Accurtek Dental Ceramic Inc,,,,,,8476707131,830 E Rand Rd # 5,Mt Prospect,IL,60056,2560,C104,31,830 E Rand Rd # 5,Mt Prospect,IL,60056,2560,807201,Laboratories-Dental,2,125
+Alex's Ceramic Studio,Alex,Mirgorrogsky,MR,,OWNER,8478274083,1772 Camden Dr,Glenview,IL,60025,7616,C016,31,1772 Camden Dr,Glenview,IL,60025,7616,807201,Laboratories-Dental,1,63
+Plaza Dental Laboratory,Ty,Plaza,MR,,OWNER,8476151518,51 Sherwood Ter,Lake Bluff,IL,60044,2232,C007,97,51 Sherwood Ter,Lake Bluff,IL,60044,2232,807201,Laboratories-Dental,1,103
+R K Dental Studios,Rich,Kubilius,MR,,OWNER,6303558006,648 80th St,Downers Grove,IL,60516,4340,C049,43,648 80th St,Downers Grove,IL,60516,4340,807201,Laboratories-Dental,3,340
+Marcus Denture Studio,Emil,Marcus,MR,,OWNER,8479659263,6110 Dempster St,Morton Grove,IL,60053,2951,C024,31,6110 Dempster St,Morton Grove,IL,60053,2951,807201,Laboratories-Dental,2,125
+Backal Dental Laboratory,Baroque,Backal,MR,,MANAGER,7083895594,12800 S Ridgeland Ave #g,Palos Heights,IL,60463,2391,C046,31,12800 S Ridgeland Ave #g,Palos Heights,IL,60463,2391,807201,Laboratories-Dental,2,125
+Advanced Dental Ceramics,,,,,,8478543333,1308 S Main St,Algonquin,IL,60102,2744,C006,111,1308 S Main St,Algonquin,IL,60102,2744,807201,Laboratories-Dental,2,131
+M B Denture Studio,,,,,,7734670314,6774 N Northwest Hwy # 1c,Chicago,IL,60631,1298,C004,31,6774 N Northwest Hwy # 1c,Chicago,IL,60631,1298,807201,Laboratories-Dental,1,63
+Dental Craft Studio,Gary,Tice,MR,,OWNER,6306907939,0s159 Church St,Winfield,IL,60190,1205,C002,43,0s159 Church St,Winfield,IL,60190,1205,807201,Laboratories-Dental,4,453
+Dental Arts Laboratories,Goran,Demidzic,MR,,MANAGER,7732743405,107 Schelter Rd,Lincolnshire,IL,60069,3603,R003,97,107 Schelter Rd,Lincolnshire,IL,60069,3603,807201,Laboratories-Dental,21,2162
+Preferred Dental Svc,Barry,Miller,MR,,OWNER,6302136636,314 S Main St,Bartlett,IL,60103,4423,C047,31,314 S Main St,Bartlett,IL,60103,4423,807201,Laboratories-Dental,4,250
+Qualitech Inc,Matt,Anderson,MR,,OWNER,6308520947,414 75th St,Downers Grove,IL,60516,4454,C053,43,414 75th St,Downers Grove,IL,60516,4454,807201,Laboratories-Dental,2,227
+Tooth Creations Inc,,,,,,7082937700,14154 Cicero Ave,Crestwood,IL,60418,2153,C001,31,14154 Cicero Ave,Crestwood,IL,60418,2153,807201,Laboratories-Dental,2,125
+Quas Dental Lab,Eric,Quas,MR,,OWNER,6305304483,253 N York St,Elmhurst,IL,60126,2763,C003,43,253 N York St,Elmhurst,IL,60126,2763,807201,Laboratories-Dental,4,453
+Brar Dentistry,Sonia,Brar,MS,,OFFICE MANAGER,6308830200,300 Randall Rd,South Elgin,IL,60177,2261,R053,89,300 Randall Rd,South Elgin,IL,60177,2261,807203,Denturists,12,985
+Hampton Dental Assoc Sc,Nelida,Rodriguez,MS,,MANAGER,4144649021,5323 W Hampton Ave,Milwaukee,WI,53218,5098,C081,79,5323 W Hampton Ave,Milwaukee,WI,53218,5098,807203,Denturists,10,1271
+Bargeway Plaza,,,,,,6302508884,1398 Lilac Ln,Addison,IL,60101,5743,C030,43,1398 Lilac Ln,Addison,IL,60101,5743,807203,Denturists,4,453
+Doctors Denture Systems,Mark Joseph,Kneepkens,MR,,OWNER,2625426170,601 N Grand Ave,Waukesha,WI,53186,4918,C003,133,601 N Grand Ave,Waukesha,WI,53186,4918,807203,Denturists,3,177
+Cambridge Dental Care,Ed,Hanley,MR,,OWNER,7084299901,17853 80th Ave,Tinley Park,IL,60477,5023,C037,31,17853 80th Ave,Tinley Park,IL,60477,5023,807203,Denturists,10,623
+Dent-Sure Dental Svc P C,Marian,Pater,MS,,MANAGER,7737794499,3942 W 111th St,Chicago,IL,60655,4033,C008,31,3942 W 111th St,Chicago,IL,60655,4033,807203,Denturists,6,374
+Family Dentist,Sue,Nanac,MS,,MANAGER,7737828900,3855 W North Ave,Chicago,IL,60647,4640,C060,31,3855 W North Ave,Chicago,IL,60647,4640,807203,Denturists,7,436
+Envision A Smile,Rick,Brar,MR,,OWNER,6303548205,2019 Dean St,St Charles,IL,60174,4801,C019,89,2019 Dean St,St Charles,IL,60174,4801,807203,Denturists,4,329
+Eon Clinics,Carl,Drago,MR,,MANAGER,4149731798,20700 Swenson Dr # 150,Waukesha,WI,53186,981,C059,133,20700 Swenson Dr # 150,Waukesha,WI,53186,981,807205,Dental Implants-Prosthesis,6,354
+Winterset Dental Care Pc,Anil,Agarwal,MR,,OWNER,7083641102,10727 W 159th St,Orland Park,IL,60467,4531,R020,31,10727 W 159th St,Orland Park,IL,60467,4531,807205,Dental Implants-Prosthesis,6,374
+Premier Dental-Implant Ctr Pc,Nora,Thadra,MS,,MANAGER,7088739709,15110 Windsor Dr,Orland Park,IL,60462,3813,C028,31,15110 Windsor Dr,Orland Park,IL,60462,3813,807205,Dental Implants-Prosthesis,3,187
+Art Carpenter Dds Ltd,Cynthia,Sappington,MS,,MANAGER,8473791766,450 Green Bay Rd # A,Kenilworth,IL,60043,1074,C006,31,450 Green Bay Rd # A,Kenilworth,IL,60043,1074,807205,Dental Implants-Prosthesis,5,312
+Brand New Smile Dental Implant,,,,,,8479153080,261 N Randall Rd #102,Lake In the Hls,IL,60156,5999,R018,111,261 N Randall Rd #102,Lake In the Hls,IL,60156,5999,807205,Dental Implants-Prosthesis,3,196
+Northwestern Dental Group,,,,,,8474232488,7886 N Milwaukee Ave,Niles,IL,60714,3145,C006,31,7886 N Milwaukee Ave,Niles,IL,60714,3145,807205,Dental Implants-Prosthesis,14,872
+Connell Patrick J Dds Sc,Patrick J,Connell,DR,DDS,,2626792414,S79w18900 Janesville Rd,Muskego,WI,53150,9502,R011,133,S79w18900 Janesville Rd,Muskego,WI,53150,9502,807205,Dental Implants-Prosthesis,1,59
+Millennium Park Oral Surgery,,,,,,3123720411,25 E Washington St # 825,Chicago,IL,60602,1722,C026,31,25 E Washington St # 825,Chicago,IL,60602,1722,807205,Dental Implants-Prosthesis,6,374
+Clear Choice Chicago,,,,,,3123005931,630 W Washington Blvd,Chicago,IL,60661,2117,C045,31,630 W Washington Blvd,Chicago,IL,60661,2117,807205,Dental Implants-Prosthesis,6,374
+Eon Clinics,Rajan,Sharma,MR,,OWNER,8472319852,1585 Barrington Rd # 301,Hoffman Estates,IL,60169,5020,C039,31,1585 Barrington Rd # 301,Hoffman Estates,IL,60169,5020,807205,Dental Implants-Prosthesis,15,934
+Periodontal & Implant Specs,Karen,Moralez,MS,,MANAGER,7732291081,6715 W Archer Ave,Chicago,IL,60638,2309,C056,31,6715 W Archer Ave,Chicago,IL,60638,2309,807205,Dental Implants-Prosthesis,6,374
+Clearchoice Dental Implant Ctr,,,,,,3129398990,200 S Michigan Ave # 1400,Chicago,IL,60604,2426,C010,31,200 S Michigan Ave # 1400,Chicago,IL,60604,2426,807205,Dental Implants-Prosthesis,6,374
